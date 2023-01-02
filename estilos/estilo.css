@@ -2,7 +2,7 @@
     --blanco: #fff;
     --oscuro: #212121;
     --primario: #ffc107;
-    --scundario: #0097a7;
+    --secundario: #0097a7;
     --gis: #757575;
 }
 
@@ -26,4 +26,14 @@ body {
 .titulo span {
     font-size: 2rem;
     color: red;
+}
+
+.contenedor {
+    width: 120rem;
+    margin: 0 auto;
+}
+
+.nav-bg {
+    background-color: var(--secundario);
+
 }
