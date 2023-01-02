@@ -13,6 +13,9 @@ html {
 body {
     /*1 rem equivale a 16px*/
     font-size: 16px;
+    /*Google Fonts*/
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
 }
 
 .titulo {
