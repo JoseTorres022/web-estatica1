@@ -1,0 +1,131 @@
+[33mcommit f137290bf29f0207a96136b49381dd22c590b4e2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 22:10:27 2023 -0700
+
+    se agregado un nuevo html
+
+[33mcommit 6e241cbc43f20e788e4ba56e2641142953c83e47[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 21:59:23 2023 -0700
+
+    detalles master
+
+[33mcommit c9f3c0b009edc7636bce5396a7b8498a876e3368[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 21:46:55 2023 -0700
+
+    detalles finales
+
+[33mcommit 15d99433bc2305fbb00d86c2a929b9a93c62dbb6[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 20:14:32 2023 -0700
+
+    usando css grid
+
+[33mcommit efb5f55b67576abd14fb910456d5188ea8f6a5bc[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 20:02:03 2023 -0700
+
+    se aplico sombra reload
+
+[33mcommit 5120f8931db289b7dbffa8d60288b5f8646d3928[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 19:03:06 2023 -0700
+
+    aplicando degradado y contenedor a main
+
+[33mcommit 9ceaacce3feabeda572a8dd2341fb423a74d417c[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 18:47:35 2023 -0700
+
+    trasnparencia a la portada y boton contacto
+
+[33mcommit f647e4e606b3d90cf2c974bf51a7ab48d87271bd[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 18:13:21 2023 -0700
+
+    aplicando CSS Box Model
+
+[33mcommit f105d11288102c0b015d613e03502c8bb9a55416[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 18:04:04 2023 -0700
+
+    creadno imange y responsive
+
+[33mcommit 00cf11f2b7a0d1e877d309f33b03f40781a3e17a[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 17:20:56 2023 -0700
+
+    media queries y mod json
+
+[33mcommit a144499dc924896623c2e763a37d002e2c0e7d2f[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 17:04:13 2023 -0700
+
+    terminando el navbar
+
+[33mcommit f57f8878c7b59822aac4864ec150dc2fc8af4c25[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 16:43:52 2023 -0700
+
+    modificando el navbar
+
+[33mcommit 3f3a49ccd63f8f1fcfbcfa0a6b4189e447b49cfd[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 15:31:26 2023 -0700
+
+    estilizando el navbar
+
+[33mcommit a33fee76cf8cf863dc93e44a5f4e52f7acbe5355[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 15:15:39 2023 -0700
+
+    se agego Normalize.css
+
+[33mcommit 878a312903633f7ee02e4b43060d778ab4754835[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 15:07:50 2023 -0700
+
+    google fonts para mas cache
+
+[33mcommit c0ad6d3429dcf4617bdd2b648ed2407b1844c0be[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 15:00:20 2023 -0700
+
+    creando psudocodigo
+
+[33mcommit 4c47045ffb0ef4446055724a478ff18942f9f84d[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 14:51:51 2023 -0700
+
+    especificdidad
+
+[33mcommit f68af4b450ccbec77b2f162f648110e677675dde[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 14:34:22 2023 -0700
+
+    aplicando rem
+
+[33mcommit 0a7b4a7bda103afea061038faf7361eca6fefc85[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 14:13:50 2023 -0700
+
+    estructurando css
+
+[33mcommit ea06673c636dbbf0a904597906a449296f9458de[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 13:54:01 2023 -0700
+
+    comnezando los css
+
+[33mcommit fd02ac28329975e96d898c3b1cce63fe82d3e0e7[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 13:50:12 2023 -0700
+
+    estructurando
+
+[33mcommit 8db29ea650e8ecbdb3f87f863745a4e627c8c41c[m
+Author: JoseTorres022 <joseangel.tosa@outlook.com>
+Date:   Mon Jan 2 13:10:11 2023 -0700
+
+    refs
