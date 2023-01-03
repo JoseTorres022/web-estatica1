@@ -27,7 +27,19 @@ body {
     background-image: linear-gradient(to top, #dfe9f3 0%, var(--blanco) 100%);
 }
 
-/* CSS a los Headings */
+/* Crear sombra (Box Shadow) */
+.sombra {
+    -webkit-box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.25);
+    -moz-box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.25);
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.25);
+
+    background-color: var(--blanco);
+    padding: 2rem;
+    border-radius: 1rem;
+}
+
+
+/* CSS a los Headings / Tipografia */
 h1 {
     font-size: 4rem;
 }
@@ -123,6 +135,8 @@ h3 {
     height: 450px;
     /* padding: 2rem; */
     position: relative;
+
+    margin-bottom: 2rem;
 }
 
 .contenido-hero {
