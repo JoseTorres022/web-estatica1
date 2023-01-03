@@ -24,7 +24,7 @@ body {
     font-size: 16px;
     /*Google Fonts*/
     font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
+    background-image: linear-gradient(to top, #dfe9f3 0%, var(--blanco) 100%);
 }
 
 /* CSS a los Headings */
@@ -101,10 +101,6 @@ h3 {
 
     }
 }
-
-@media (min-width: 1140px) {}
-
-@media (min-width: 1400px) {}
 
 .navegacion-principal a {
     color: var(--blanco);
