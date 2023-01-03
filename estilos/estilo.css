@@ -162,3 +162,11 @@ h3 {
     display: flex;
     align-items: flex-end;
 }
+
+/* Usando CCS Grid, para los servicios */
+.servicios {
+    display: grid;
+    /* fr, divide un entero*/
+    grid-template-columns: repeat(3, 1fr);
+    /* grid-template-rows: 400px 800px; */
+}
