@@ -8,6 +8,15 @@
 
 html {
     font-size: 62.5%;
+    /* Para el CSS Box Model */
+    box-sizing: border-box;
+}
+
+/* Para el CSS Box Model */
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
 }
 
 body {
@@ -49,20 +58,16 @@ body {
 
 /* Media Queries, para automatizar y al mismo tiempo crear el Resposive*/
 @media (min-width: 768px) {
-    .navegacion-principal{
+    .navegacion-principal {
         flex-direction: row;
         justify-content: space-between;
 
     }
 }
 
-@media (min-width: 1140px) {
-    
-}
+@media (min-width: 1140px) {}
 
-@media (min-width: 1400px) {
-    
-}
+@media (min-width: 1400px) {}
 
 .navegacion-principal a {
     color: var(--blanco);
@@ -76,9 +81,10 @@ body {
     background-color: var(--primario);
     color: var(--oscuro);
 }
+
 /* Trabajndo la imagen */
-.hero{
-    background-image: url(../imagenes/portada.jpg) ;
+.hero {
+    background-image: url(../imagenes/portada.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
